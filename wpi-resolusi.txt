@@ -1,6 +1,6 @@
 wpi-resolusi
 - belajar programmer
 (php [prefer laravel], js framework dan cloud nilai plus [kayak firebase, google cloud dan lain-lain, db mysql dan mongo)
-- Membangun Usaha dagang
+- Membangun Usaha dagang (jualan online)
 - Mencoba Saham Emas
 - Daftar Inverstasi Sekuritas  Mandiri
